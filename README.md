@@ -86,6 +86,20 @@ Note: Large data files are included in the repository. If any file is missing, r
 
 ---
 
+## Dashboard Screenshots
+
+### Global Risk Overview
+![Global Overview](screenshots/global_overview.png)
+
+### Country Deep Dive
+![Country Deep Dive](screenshots/country_deepdive.png)
+
+### Model Insights
+![Model Insights](screenshots/model_insights.png)
+
+---
+
+---
 ## How It Works
 
 **Step 1 — Data Ingestion**
