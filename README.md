@@ -89,13 +89,13 @@ Note: Large data files are included in the repository. If any file is missing, r
 ## Dashboard Screenshots
 
 ### Global Risk Overview
-![Global Overview](screenshots/global_overview.png)
+![Global Overview](screenshots/global_overview.jpg)
 
 ### Country Deep Dive
-![Country Deep Dive](screenshots/country_deepdive.png)
+![Country Deep Dive](screenshots/country_deepdive.jpg)
 
 ### Model Insights
-![Model Insights](screenshots/model_insights.png)
+![Model Insights](screenshots/model_insights.jpg)
 
 ---
 
